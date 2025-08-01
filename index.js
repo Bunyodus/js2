@@ -17,7 +17,7 @@ if (yosh >= 0 && yosh <= 18) {
 } else if (yosh >= 60 && yosh <= 150) {
     console.log(`Sizning yoshingiz : ${yosh} (Pensionerga o'xshaysiz, agar tirik bo'lsangiz :))`);
 } else {
-    console.log("Ustoz hila qimen hammasi tori 😂");
+    console.log("Ustoz hila qimen son yozin 😂");
 }
 
 if (a === 11) {
@@ -52,5 +52,5 @@ if ((o1 >= o2 && o1 <= o3) || (o1 <= o2 && o1 >= o3)) {
 } else if ((o3 >= o1 && o3 <= o2) || (o3 <= o1 && o3 >= o2)) {
     console.log(`O'rta son: ${o3}`);
 } else {
-    console.log("Ustoz hila qimen hammasi tori 😂");
+    console.log("Ustoz hila qimen yozin 😂");
 }
