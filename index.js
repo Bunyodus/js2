@@ -54,3 +54,4 @@ if ((o1 >= o2 && o1 <= o3) || (o1 <= o2 && o1 >= o3)) {
 } else {
     console.log("Ustoz hila qimen yozin 😂");
 }
+alert("Kiritgan malumotlaringizni consoleda korishingiz mumkun")
